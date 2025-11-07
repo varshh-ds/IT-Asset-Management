@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1851739_it_ass_0_it_asset" section_id="8cbf35d7c374321088a77205e4013192" sys_domain="global" table="x_1851739_it_ass_0_it_asset" version="3" view="IT_Asset_Form">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e4013185</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_name</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>bc08c293c3b4321088a77205e4013185</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_type</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e4013186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>bc08c293c3b4321088a77205e4013186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e4013187</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_date</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>bc08c293c3b4321088a77205e4013187</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e4013188</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to.email</element>
+            <position>7</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>bc08c293c3b4321088a77205e4013188</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to.department.name</element>
+            <position>8</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e4013189</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to.manager.name</element>
+            <position>9</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>bc08c293c3b4321088a77205e4013189</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to.title</element>
+            <position>10</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 12:02:44</sys_created_on>
+            <sys_id>b408c293c3b4321088a77205e401318a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1851739_it_ass_0_it_asset" display_value="x_1851739_it_ass_0_it_asset" name="x_1851739_it_ass_0_it_asset" sys_domain="global" view="c4bf35d7c374321088a77205e401318e">8cbf35d7c374321088a77205e4013192</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 12:02:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1851739_it_ass_0_it_asset</caption>
+            <header>false</header>
+            <name>x_1851739_it_ass_0_it_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2025-10-30 11:26:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cbf35d7c374321088a77205e4013192</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1851739_it_ass_0_it_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Assessment Management System" source="x_1851739_it_ass_0">8cf709dfc330321088a77205e4013132</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Assessment Management System">8cf709dfc330321088a77205e4013132</sys_scope>
+            <sys_update_name>sys_ui_section_8cbf35d7c374321088a77205e4013192</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2025-10-30 11:26:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="IT Asset Form" name="IT_Asset_Form">c4bf35d7c374321088a77205e401318e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f4ba81d3c370321088a77205e401314b" label="IT Asset" max_length="40" name="x_1851739_it_ass_0_it_asset" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Asset Name" max_length="40" name="asset_name" type="string"/>
+        <element label="Purchase Date" max_length="40" name="purchase_date" type="glide_date"/>
+        <element choice="3" label="Asset Type" max_length="40" name="asset_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Software License" sequence="2" value="software_license"/>
+                <element inactive_on_update="false" label="Printer" sequence="3" value="printer"/>
+                <element inactive_on_update="false" label="Mobile" sequence="4" value="mobile"/>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
+                <element inactive_on_update="false" label="Server" sequence="1" value="server"/>
+            </choice>
+        </element>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Under Maintenance" sequence="2" value="under_maintenance"/>
+                <element inactive_on_update="false" label="Retired" sequence="3" value="retired"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="In Use" sequence="1" value="in_use"/>
+                <element inactive_on_update="false" label="Assigned" sequence="4" value="assigned"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
